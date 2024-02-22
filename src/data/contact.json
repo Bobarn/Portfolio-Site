@@ -1,24 +1,19 @@
 {
   "title": "Get in touch",
 
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique placerat in massa consectetur quisque nunc fames.",
+  "description": "Please feel free to reach out",
 
   "paragrapgs": [
-    "Magni dolores eos qui sed quia consequuntur ratione voluptatem sequi nesciunt permano Nence of the stars from which we spring muse about as a patch of light billions upon billions.",
-    "Energy hidden in matter a mote of lorem ipsum dust suspended in a sunbeam billions upon ratione voluptatem sequi nesciunt permano lorem ipsum."
+    "Outside of web development, I am well involved with the board game and table top role playing worlds! I also am a rock climber and Digimon enjoyer among other things. Shoot me a message and I'm sure we can find something to chat about~!"
   ],
   "contactInfo": [
     {
-      "title": "ADDRESS",
-      "value": "Some Street 987, USA"
-    },
-    {
       "title": "EMAIL",
-      "value": "company@youremail.com"
+      "value": "b.n.tamayo7@gmail.com"
     },
     {
-      "title": "WEBSITE",
-      "value": "www.yourwebsite.com"
+      "title": "PHONE",
+      "value": "(808) 840-7528"
     }
   ],
 

@@ -11,13 +11,13 @@ import PortfolioItem2 from './items/PortfolioItem2';
 import PortfolioItem3 from './items/PortfolioItem3';
 
 // Images
-import portfolio1 from '../../../assets/images/portfolio/portfolio1.jpg';
-import portfolio2 from '../../../assets/images/portfolio/portfolio2.jpg';
-import portfolio3 from '../../../assets/images/portfolio/portfolio3.jpg';
-import portfolio4 from '../../../assets/images/portfolio/portfolio4.jpg';
-import portfolio5 from '../../../assets/images/portfolio/portfolio5.jpg';
-import portfolio6 from '../../../assets/images/portfolio/portfolio6.jpg';
-import portfolio7 from '../../../assets/images/portfolio/portfolio6.jpg';
+import portfolio1 from '../../../assets/images/portfolio/portfolio1.png';
+import portfolio2 from '../../../assets/images/portfolio/portfolio2.png';
+import portfolio3 from '../../../assets/images/portfolio/portfolio3.png';
+// import portfolio4 from '../../../assets/images/portfolio/portfolio4.jpg';
+// import portfolio5 from '../../../assets/images/portfolio/portfolio5.jpg';
+// import portfolio6 from '../../../assets/images/portfolio/portfolio6.jpg';
+// import portfolio7 from '../../../assets/images/portfolio/portfolio6.jpg';
 // --> Portfolio items
 import portfolioItem1 from '../../../assets/images/portfolio/items/item_03.jpg';
 import portfolioItem2 from '../../../assets/images/portfolio/items/item_02.jpg';
@@ -39,10 +39,10 @@ function Portfolio() {
     portfolio1,
     portfolio2,
     portfolio3,
-    portfolio4,
-    portfolio5,
-    portfolio6,
-    portfolio7,
+    // portfolio4,
+    // portfolio5,
+    // portfolio6,
+    // portfolio7,
   ];
 
   // Portfolio item to be shown (change rendered different components in item folder)

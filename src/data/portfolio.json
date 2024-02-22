@@ -26,8 +26,8 @@
         "number": 1
       },
       "description": {
-        "text": "Home",
-        "caption": "Text"
+        "text": "E-Commerce",
+        "caption": "Collaborative React/Python Project"
       }
     },
     {
@@ -38,8 +38,8 @@
         "number": 2
       },
       "description": {
-        "text": "Stairways",
-        "caption": "Text"
+        "text": "Social Media",
+        "caption": "Book Themed Solo React/Python Project"
       }
     },
     {
@@ -50,8 +50,8 @@
         "number": 3
       },
       "description": {
-        "text": "Sneakers",
-        "caption": "Text"
+        "text": "Event Coordination",
+        "caption": "Solo React/JavaScript Project to clone MeetUp"
       }
     },
     {

@@ -1,19 +1,22 @@
 {
-  "welcomeText": "Hello. My name is",
-  "name": "Brandon Tamayo",
-  "text": "A full stack all around software engineer that may or may not include a guide for specific creative potential methods who framing and evaluating moves.",
+  "welcomeText": "Software Engineer Hardened by Healthcare",
+  "name": "Brandon Tamayo~",
+  "text": "Welcome! My strengths go beyond just the computer as I am well versed in customer service, adaptable, and am a fervent advocate for active listening with a desire and willingness to ensure communication remains open and clear, something I value in myself as much as in others. I hope to find a company with core values in community and communication where I can use my unique combination of grit, adaptability, and a team-focused nature to enhance our products at every level of the stack.",
   "socialLinks": [
     {
       "text": "LINKEDIN",
-      "to": "#"
+      "to": "https://www.linkedin.com/in/brandon-tamayo-bobarn7/",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"
     },
     {
       "text": "GITHUB",
-      "to": "#"
+      "to": "https://github.com/Bobarn",
+      "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     },
     {
       "text": "INSTAGRAM",
-      "to": "#"
+      "to": "https://www.instagram.com/bntamayo/",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
     }
   ]
 }

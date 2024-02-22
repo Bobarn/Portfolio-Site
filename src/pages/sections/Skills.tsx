@@ -36,22 +36,22 @@ function Skills() {
     };
   }, [circleProgress]);
 
-  useEffect(() => {
-    const progressBarYPosition =
-      normalProgressBarRef.current!.getBoundingClientRect().top +
-      window.scrollY;
-    const handleScroll = () => {
-      if (window.scrollY >= progressBarYPosition) {
-        setNormalProgress(
-          skillsData.horizontalProgress.map((progress) => progress.percentage)
-        );
-      }
-    };
-    window.addEventListener('scroll', handleScroll);
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, [normalProgress]);
+  // useEffect(() => {
+  //   const progressBarYPosition =
+  //     normalProgressBarRef.current!.getBoundingClientRect().top +
+  //     window.scrollY;
+  //   const handleScroll = () => {
+  //     if (window.scrollY >= progressBarYPosition) {
+  //       setNormalProgress(
+  //         skillsData.horizontalProgress.map((progress) => progress.percentage)
+  //       );
+  //     }
+  //   };
+  //   window.addEventListener('scroll', handleScroll);
+  //   return () => {
+  //     window.removeEventListener('scroll', handleScroll);
+  //   };
+  // }, [normalProgress]);
 
   return (
     <section id="skills" className="section">
@@ -84,8 +84,26 @@ function Skills() {
               ))}
             </div>
           </div>
+          <div className='technologies'>
+                        <i className="tech__icon devicon-javascript-plain colored"></i>
+                        <i className="tech__icon devicon-react-original-wordmark colored"></i>
+                        <i className="tech__icon devicon-redux-plain colored"></i>
+                        <i className="tech__icon devicon-python-plain-wordmark colored"></i>
+                        <i className="tech__icon devicon-postgresql-plain-wordmark colored"></i>
+                        <i className="tech__icon devicon-sequelize-plain-wordmark" style={{ color: "#B0B3B8" }}></i>
+                        <i className="tech__icon devicon-express-original-wordmark" style={{ color: "#B0B3B8" }}></i>
+                        <i className="tech__icon devicon-nodejs-plain-wordmark colored"></i>
+                        <i className="tech__icon devicon-html5-plain-wordmark colored"></i>
+                        <i className="tech__icon devicon-css3-plain-wordmark colored"></i>
+                        <i className="tech__icon devicon-flask-original-wordmark" style={{ color: "#B0B3B8" }}></i>
+                        <i className="tech__icon devicon-sqlalchemy-plain" style={{ color: "#B0B3B8" }}></i>
+                        <i className="tech__icon devicon-git-plain-wordmark colored"></i>
+                        <i className="tech__icon devicon-amazonwebservices-plain-wordmark colored"></i>
 
-          <div className="row" ref={normalProgressBarRef}>
+                        <i className="tech__icon devicon-docker-plain-wordmark colored"></i>
+          </div>
+
+          {/* <div className="row" ref={normalProgressBarRef}>
             <div className="one-half">
               <div className="skills-holder">
                 {skillsData.horizontalProgress
@@ -134,7 +152,7 @@ function Skills() {
                   ))}
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

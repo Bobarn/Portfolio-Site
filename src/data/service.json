@@ -1,34 +1,32 @@
 {
-  "title": "Services",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique placerat in massa consectetur quisque nunc fames.",
+  "title": "Areas of Experience",
+  "description": "I have experience working across the stack in two different languages",
   "paragraphes": [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique placerat in massa consectetur quisque. Nunc ac fames lectus in libero aliquet.",
-    "Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu. Vitae faucibus diam consequat maecenas. Turpis metus sit diam purus leo in varius ac quam. Nunc amet tristique volutpat adipiscing vulputate phasellus. Volutpat faucibus"
-  ],
+    ""  ],
 
   "servicesBoxes": [
     {
       "imageAltText": "serv icon",
-      "servTitle": "Design",
-      "servDesc": "A full stack allaround designer that may or may not include a guide for specific creative people",
+      "servTitle": "Frontend",
+      "servDesc": "I have experience working with HTML, CSS, and JavaScript. I have also worked with a number of frameworks including React, Redux, and I have plans to learn Angular in the near future.",
       "className": "service-holder"
     },
     {
       "imageAltText": "serv icon",
-      "servTitle": "Develop",
-      "servDesc": "Tellus pharetra erat tristique erat donec dignissim etiam sed malesik enim sodales lorem ipsum",
+      "servTitle": "Database",
+      "servDesc": "My experience with databases includes working with SQL across a number of different platforms including Sequelize, SQLAlchemy, and SQLite3. Next, I plan to explore NoSQL databases through MongoDB.",
       "className": "service-holder m-right-0"
     },
     {
       "imageAltText": "serv icon",
-      "servTitle": "Write",
-      "servDesc": "Vestibulum consequat, dignissim tellus sollicitudin vulputate elit aliquet ullamcorper feugiat nisi",
+      "servTitle": "Backend",
+      "servDesc": "I have worked with the Express and Flask frameworks in JavaScript and Python respectively. Next on my list is Django and Ruby.",
       "className": "service-holder m-bottom-0"
     },
     {
       "imageAltText": "serv icon",
-      "servTitle": "Promote",
-      "servDesc": "Quam facilisi nunc faucibus at porttitor vestibulum consequat dignissim tellus sollicitudin",
+      "servTitle": "Work Flow",
+      "servDesc": "I'm well acquainted with both Agile, Waterfall, and SCRUM work-flow methodologies. I have experience playing multiple roles across the SCRUM and jumping between jobs as was needed.",
       "className": "service-holder m-right-0 m-bottom-0"
     }
   ]

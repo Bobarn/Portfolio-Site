@@ -12,9 +12,10 @@ function Home() {
           <h1 className="entry-title">{homeData.name}</h1>
           <p className="site-info">{homeData.text}</p>
 
-          <div className="social-links">
+          <div style={{display:"flex", alignItems: "flex-end"}} className="social-links">
             {homeData.socialLinks.map((link, i) => (
-              <a key={'social-link-' + i} href={link.to}>
+              <a style={{display: "flex", flexDirection: "column", alignItems: "center"}} key={'social-link-' + i} href={link.to}>
+                <img style={{width: "50px"}} src={link.icon} alt={`${link.text} image`}/>
                 {link.text}
               </a>
             ))}

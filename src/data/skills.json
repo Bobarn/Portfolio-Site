@@ -3,20 +3,20 @@
 
   "circleProgress": [
     {
-      "title": "Photoshop",
-      "percentage": 82
+      "title": "Python",
+      "percentage": 90
     },
     {
-      "title": "Marketing",
-      "percentage": 60
+      "title": "JavaScript",
+      "percentage": 92
     },
     {
-      "title": "PhP",
-      "percentage": 75
+      "title": "React & Redux",
+      "percentage": 85
     },
     {
-      "title": "3D",
-      "percentage": 31
+      "title": "HTML & CSS",
+      "percentage": 80
     }
   ],
 

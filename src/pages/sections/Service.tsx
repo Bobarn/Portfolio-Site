@@ -3,7 +3,7 @@ import servImg1 from '../../assets/images/services/service1.png';
 import servImg2 from '../../assets/images/services/service2.png';
 import servImg3 from '../../assets/images/services/service3.png';
 import servImg4 from '../../assets/images/services/service4.png';
-import servImg5 from '../../assets/images/services/service4.png';
+// import servImg5 from '../../assets/images/services/service4.png';
 
 // Data
 import serviceData from '../../data/service.json';
@@ -11,7 +11,7 @@ import serviceData from '../../data/service.json';
 // -----------------------
 
 function Service() {
-  const images: string[] = [servImg1, servImg2, servImg3, servImg4, servImg5];
+  const images: string[] = [servImg1, servImg2, servImg3, servImg4];
 
   return (
     <section id="service" className="section">
@@ -20,13 +20,28 @@ function Service() {
           <div className="row">
             <div className="one-half width-55">
               <div className="services-wrapper">
-                {serviceData.servicesBoxes.map((serv, i) => (
-                  <div key={'serv-' + i} className={serv.className!}>
-                    <img src={images[i]} alt={serv.imageAltText} />
-                    <h4 className="service-title">{serv.servTitle}</h4>
-                    <div className="service-text">{serv.servDesc}</div>
+                {/* {serviceData.servicesBoxes.map((serv, i) => ( */}
+                {/* ))} */}
+                <div  className={serviceData.servicesBoxes[0].className!}>
+                    <img src={images[1]} alt={serviceData.servicesBoxes[0].imageAltText} />
+                    <h4 className="service-title">{serviceData.servicesBoxes[0].servTitle}</h4>
+                    <div className="service-text">{serviceData.servicesBoxes[0].servDesc}</div>
                   </div>
-                ))}
+                  <div  className={serviceData.servicesBoxes[1].className!}>
+                    <img src={images[2]} alt={serviceData.servicesBoxes[1].imageAltText} />
+                    <h4 className="service-title">{serviceData.servicesBoxes[1].servTitle}</h4>
+                    <div className="service-text">{serviceData.servicesBoxes[1].servDesc}</div>
+                  </div>
+                  <div  className={serviceData.servicesBoxes[2].className!}>
+                    <img src={images[3]} alt={serviceData.servicesBoxes[2].imageAltText} />
+                    <h4 className="service-title">{serviceData.servicesBoxes[2].servTitle}</h4>
+                    <div className="service-text">{serviceData.servicesBoxes[2].servDesc}</div>
+                  </div>
+                  <div  className={serviceData.servicesBoxes[3].className!}>
+                    <img src={images[0]} alt={serviceData.servicesBoxes[3].imageAltText} />
+                    <h4 className="service-title">{serviceData.servicesBoxes[3].servTitle}</h4>
+                    <div className="service-text">{serviceData.servicesBoxes[3].servDesc}</div>
+                  </div>
               </div>
             </div>
 
@@ -38,7 +53,7 @@ function Service() {
               ))}
 
               <div className="button-group-wrapper">
-                <a className="button">Download CV</a>
+                <a href='https://docs.google.com/document/d/1wXF-2pJPqD0N9MnzNK5-gMWWwcWgu6pSscRym5YQOn0/edit?usp=sharing' className="button">My Resume</a>
                 <a href="#portfolio" className="button">
                   Check My Portfolio
                 </a>

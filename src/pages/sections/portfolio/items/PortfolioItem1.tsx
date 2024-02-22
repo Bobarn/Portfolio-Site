@@ -57,7 +57,7 @@ function PortfolioItem1() {
             </p>
 
             <p>
-              <a className="button">Check Project</a>
+              <a href='https://itsy-bitsy.onrender.com/' className="button">Check Project</a>
             </p>
           </div>
         </div>

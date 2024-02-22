@@ -32,7 +32,7 @@ function PortfolioItem3() {
             </p>
 
             <p>
-              <a className="button">Check Project</a>
+              <a href='https://bt-auth-me.onrender.com/' className="button">Check Project</a>
             </p>
           </div>
 
