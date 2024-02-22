@@ -6,16 +6,12 @@
     },
     {
       "to": "service",
-      "text": "Service"
+      "text": "Experience"
     },
 
     {
       "to": "portfolio",
       "text": "Portfolio"
-    },
-    {
-      "to": "resume",
-      "text": "Resume"
     },
     {
       "to": "skills",
