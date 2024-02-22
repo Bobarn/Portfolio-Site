@@ -23,21 +23,15 @@ function PortfolioItem2() {
         <div className="row">
           <div className="one-half width-40">
             <h2 className="entry-title section-title">
-              Pretty stories and sky
+              Booket
             </h2>
 
             <p className="section-info">
-              Two ghostly white figures in coveralls and helmets are softly
-              dancing.
+              A solo project with a unique twist on the classic social media page to create a platform for users to share their favorite photos and moments~
             </p>
 
             <p>
-              Cras pretium metus pulvinar ultricies auctor. In varius purus
-              blandit sem mollis tristique. Curabitur sed lorem vel ligula
-              pulvinar porttitor. Proin sit amet mauris eleifend amet,
-              ullamcorper lacus. Vangelis rich in heavy atoms descended from
-              astronomers dream of the mind’s cras pretium metus pulvinar
-              ultricies auctor in varius purus blandit.
+             Utilizing AWS, React, Redux, Python, Flask, SQLAlchemy, PostgreSQL, HTML, and CSS, I designed this site from front to back. I chose to implement a book theme for a cozy and welcoming experience combined with advanced CSS to make users feel like they are truly writing their own story.
             </p>
 
             <p>

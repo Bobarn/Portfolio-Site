@@ -14,21 +14,15 @@ function PortfolioItem3() {
         <div className="row">
           <div className="one-half width-40">
             <h2 className="entry-title section-title">
-              Creatures of the cosmos
+              Ensemble
             </h2>
 
             <p className="section-info">
-              Two ghostly white figures in coveralls and helmets are softly
-              dancing.
+              A solo project to create an event planning clone of MeetUp~!
             </p>
 
             <p>
-              Cras pretium metus pulvinar ultricies auctor. In varius purus
-              blandit sem mollis tristique. Curabitur sed lorem vel ligula
-              pulvinar porttitor. Proin sit amet mauris eleifend amet,
-              ullamcorper lacus. Vangelis rich in heavy atoms descended from
-              astronomers dream of the mind’s cras pretium metus pulvinar
-              ultricies auctor in varius purus blandit.
+              By using a combination of React, Redux, Express, Node.js, PostgreSQL, HTML, and CSS, I was able to create a site that allows users to create accounts, login, create/join groups, and post/attend events.
             </p>
 
             <p>

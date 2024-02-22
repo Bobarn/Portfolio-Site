@@ -40,20 +40,14 @@ function PortfolioItem1() {
           </div>
 
           <div className="one-half width-40 last">
-            <h2 className="entry-title section-title">Art of Camera</h2>
+            <h2 className="entry-title section-title">Itsy Bitsy</h2>
 
             <p className="section-info">
-              Two ghostly white figures in coveralls and helmets are softly
-              dancing.
+              A collaborative project with a team of 4 developers to create a functional clone of Etsy~!
             </p>
 
             <p>
-              Cras pretium metus pulvinar ultricies auctor. In varius purus
-              blandit sem mollis tristique. Curabitur sed lorem vel ligula
-              pulvinar porttitor. Proin sit amet mauris eleifend amet,
-              ullamcorper lacus. Vangelis rich in heavy atoms descended from
-              astronomers dream of the mind’s cras pretium metus pulvinar
-              ultricies auctor in varius purus blandit.
+              We used a combination of React, Redux, Python, Flask, SQLAlchemy, HTML, and CSS to create a beautiful site that allows users to create accounts, login, and post/purchase items for sale.
             </p>
 
             <p>
