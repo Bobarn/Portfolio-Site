@@ -12,11 +12,6 @@
       "text": "GITHUB",
       "to": "https://github.com/Bobarn",
       "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-    },
-    {
-      "text": "INSTAGRAM",
-      "to": "https://www.instagram.com/bntamayo/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
     }
   ]
 }

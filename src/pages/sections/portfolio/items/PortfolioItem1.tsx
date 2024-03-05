@@ -5,9 +5,9 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import item1 from '../../../../assets/images/portfolio/items/item_01.jpg';
-import item2 from '../../../../assets/images/portfolio/items/item_02.jpg';
-import item3 from '../../../../assets/images/portfolio/items/item_03.jpg';
+import item1 from '../../../../assets/images/portfolio/items/item_04.png';
+import item2 from '../../../../assets/images/portfolio/items/item_05.png';
+import item3 from '../../../../assets/images/portfolio/items/item_06.png';
 
 // Styles
 import './portfolio-item.css';

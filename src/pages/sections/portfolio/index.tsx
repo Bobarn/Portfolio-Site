@@ -19,8 +19,8 @@ import portfolio3 from '../../../assets/images/portfolio/portfolio3.png';
 // import portfolio6 from '../../../assets/images/portfolio/portfolio6.jpg';
 // import portfolio7 from '../../../assets/images/portfolio/portfolio6.jpg';
 // --> Portfolio items
-import portfolioItem1 from '../../../assets/images/portfolio/items/item_03.jpg';
-import portfolioItem2 from '../../../assets/images/portfolio/items/item_02.jpg';
+import portfolioItem1 from '../../../assets/images/portfolio/items/item_03.png';
+import portfolioItem2 from '../../../assets/images/portfolio/items/item_02.png';
 // --> Icon Images
 import backArrow from '../../../assets/images/close-left-arrow.png';
 import closeIcon from '../../../assets/images/close.png';

@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 
 // Images
-import signature from '../assets/images/signature.png';
+// import signature from '../assets/images/signature.png';
 
 // Data
 import navData from '../data/navbar.json';
@@ -90,7 +90,7 @@ function Navbar({ isLanding }: NavbarProps) {
                 <p className="my-info-content">{info.text}</p>
               </div>
             ))}
-            <img className="my-info-signature" src={signature} alt="" />
+            {/* <img className="my-info-signature" src={signature} alt="" /> */}
           </div>
 
           <div className="big-num">
