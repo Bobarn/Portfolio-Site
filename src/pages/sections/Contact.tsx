@@ -86,10 +86,10 @@ function Contact() {
       data: formData,
     })
       .then((r) => {
-        handleServerResponse(true, 'Message Has Been Send');
+        handleServerResponse(true, 'Message Has Been Sent');
       })
       .catch((r) => {
-        handleServerResponse(false, 'Error occuars while sending');
+        handleServerResponse(false, 'Error occured while sending');
       });
   };
 
