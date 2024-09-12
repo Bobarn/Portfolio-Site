@@ -1,32 +1,32 @@
 {
   "title": "Areas of Experience",
-  "description": "I have experience working across the stack in two different languages. Having built out applications in both JavaScript and Python, I have a good understanding of the different frameworks and libraries that are available in both languages. I also have experience with data analysis using SQL, R, NumPy and Pandas allowing me to work comfortably with large and small databases.",
+  "description": "I have experience working in cross-functional teams and communicating across departments to support projects of various scales. Having built out applications in both JavaScript and Python, I have a good understanding of the different frameworks and libraries that are available in both languages. I also have experience with data analysis using SQL, R, Excel, Access, Python, and Tableau allowing me to work comfortably with large and small databases and create actionable insights based on the data extracted.",
   "paragraphes": [
     ""  ],
 
   "servicesBoxes": [
     {
       "imageAltText": "serv icon",
-      "servTitle": "Frontend",
-      "servDesc": "I have experience working with HTML, CSS, and JavaScript. I have also worked with a number of frameworks including React, Redux, and I have plans to learn Angular in the near future.",
+      "servTitle": "Software",
+      "servDesc": "I have experience working with Excel, SQL, Python, VBA, and Tableau. I have used a variety of Python packages (Seaborn, matplotlib, Pandas, NumPy, and Scikit) and software tools to generate effective visuals and reports.",
       "className": "service-holder"
     },
     {
       "imageAltText": "serv icon",
       "servTitle": "Database",
-      "servDesc": "My experience with databases includes working with SQL across a number of different platforms including Sequelize, SQLAlchemy, and SQLite3. Next, I plan to explore NoSQL databases through MongoDB.",
+      "servDesc": "My experience with databases includes working with SQL across a number of different platforms including PostgreSQL, Access, and MySQL. I have also utilized SQL in big data environments including both customer and medical environments adhering to secure data guidelines to extract important information.",
       "className": "service-holder m-right-0"
     },
     {
       "imageAltText": "serv icon",
-      "servTitle": "Backend",
-      "servDesc": "I have worked with the Express and Flask frameworks in JavaScript and Python respectively. Next on my list is Django and Ruby.",
+      "servTitle": "Operations",
+      "servDesc": "I have experience gathering information and translating goals into a project plan, design, and requirements as well as identifying issues and implementing solutions. My experience in healthcare and leading large teams and implementing changes has given me the ability to work with a variety of stakeholders to ensure that the final results meet the needs of the customer and company.",
       "className": "service-holder m-bottom-0"
     },
     {
       "imageAltText": "serv icon",
       "servTitle": "Work Flow",
-      "servDesc": "I'm well acquainted with both Agile, Waterfall, and SCRUM work-flow methodologies. I have experience playing multiple roles across the SCRUM and jumping between jobs as was needed.",
+      "servDesc": "I'm well acquainted with both Agile, Waterfall, and SCRUM work-flow methodologies. I have experience playing multiple roles across the SCRUM and juggling multiple priorities to ensure that the team is able to deliver on time. I have also worked with a variety of project management tools including Jira and Kanban boards.",
       "className": "service-holder m-right-0 m-bottom-0"
     }
   ]
