@@ -101,7 +101,9 @@ function Skills() {
                         <i className="tech__icon devicon-amazonwebservices-plain-wordmark colored"></i>
 
                         <i className="tech__icon devicon-numpy-plain colored"></i>
-
+                        <i className="tech__icon fas fa-file-excel"></i>
+                        <i className="tech__icon devicon-pandas-plain colored"></i>
+                        <img className='tech__icon' id='tableau_icon' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ef5b715-f42b-4fa6-b85f-cefe8fdb3217/dfesc3w-5ede39c2-a820-416d-8d2b-55dab8784a85.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlZjViNzE1LWY0MmItNGZhNi1iODVmLWNlZmU4ZmRiMzIxN1wvZGZlc2Mzdy01ZWRlMzljMi1hODIwLTQxNmQtOGQyYi01NWRhYjg3ODRhODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K6su883UeNFw5I_jzoZY3wMB11xoFoYWqqTCV1eyPAw"/>
                         <i className="tech__icon devicon-docker-plain-wordmark colored"></i>
           </div>
 
