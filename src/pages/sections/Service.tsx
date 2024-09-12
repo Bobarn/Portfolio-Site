@@ -53,7 +53,7 @@ function Service() {
               ))}
 
               <div className="button-group-wrapper">
-                <a href='https://docs.google.com/document/d/1wXF-2pJPqD0N9MnzNK5-gMWWwcWgu6pSscRym5YQOn0/edit?usp=sharing' className="button">My Resume</a>
+                <a href='https://docs.google.com/document/d/1ludyuZUnbc3CmSyUlImthEGnENrbBMCMv8OQSDyLqYY/edit?usp=sharing' className="button">My Resume</a>
                 <a href="#portfolio" className="button">
                   Check My Portfolio
                 </a>
