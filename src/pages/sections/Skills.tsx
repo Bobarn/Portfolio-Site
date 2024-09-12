@@ -100,6 +100,8 @@ function Skills() {
                         <i className="tech__icon devicon-git-plain-wordmark colored"></i>
                         <i className="tech__icon devicon-amazonwebservices-plain-wordmark colored"></i>
 
+                        <i className="tech__icon devicon-numpy-plain colored"></i>
+
                         <i className="tech__icon devicon-docker-plain-wordmark colored"></i>
           </div>
 
