@@ -47,7 +47,7 @@ function PortfolioItem1() {
             </p>
 
             <p>
-              We used a combination of React, Redux, Python, Flask, SQLAlchemy, HTML, and CSS to create a beautiful site that allows users to create accounts, login, and post/purchase items for sale.
+              We used a combination of React, Redux, Python, Flask, SQLAlchemy, HTML, and CSS to create a beautiful site that allows users to create accounts, login, and post/purchase items for sale. I debugged and designed the database myself utilizing various joins and eager loaded queries to optimize data retrieval throughout the design process.
             </p>
 
             <p>

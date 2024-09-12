@@ -31,7 +31,7 @@ function PortfolioItem2() {
             </p>
 
             <p>
-             Utilizing AWS, React, Redux, Python, Flask, SQLAlchemy, PostgreSQL, HTML, and CSS, I designed this site from front to back. I chose to implement a book theme for a cozy and welcoming experience combined with advanced CSS to make users feel like they are truly writing their own story.
+             Utilizing AWS, Optimized SQL Queries, Python, Flask, SQLAlchemy, PostgreSQL, HTML, and CSS, I designed this site from front to back. I chose to implement a book theme for a cozy and welcoming experience combined with advanced CSS to make users feel like they are truly writing their own story.
             </p>
 
             <p>

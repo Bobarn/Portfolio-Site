@@ -45,8 +45,7 @@ function PortfolioItem3() {
                 <img src={servIcon2} alt="" />
                 <h4 className="service-title">Develop</h4>
                 <div className="service-text">
-                  Tellus pharetra erat tristique erat donec dignissim etiam sed
-                  malesik enim sodales lorem ipsum
+                  Delivered a full stack application based on set user requirements upon communication with a project manager and a designer.
                 </div>
               </div>
             </div>
